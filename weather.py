@@ -1,7 +1,7 @@
 # weather.py
 # -*- coding: utf-8 -*-
 local_encoding = 'cp850' 
-# placeholder
+
 import forecastio
 from geopy.geocoders import Nominatim
 import os

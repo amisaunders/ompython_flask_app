@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import weather
 import os
 app = Flask(__name__)
-# placeholder
+
 
 @app.route("/")
 def index():
